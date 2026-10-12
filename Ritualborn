@@ -1,0 +1,41 @@
+```markdown
+# Ritualborn
+
+Make strength a ritual.
+
+Ritualborn is a mobile-friendly workout planner and strength tracker for people starting or returning to strength training. Build a personalized routine around your goals, experience, available equipment, and schedule, then log workouts and track your progress over time.
+
+## Features
+
+- Personalized workout plans shaped by your training goals and experience
+- Workout logging for exercises, sets, reps, and weights
+- Rest timers to help keep sessions on track
+- Strength and body-progress tracking
+- Nutrition logging and goals
+- An AI coach to help you stay consistent and make informed adjustments
+- Installable web app experience on supported devices
+
+## Getting started
+
+Visit [Ritualborn](https://ritualborn.com) and complete the short onboarding quiz to get started.
+
+## Membership
+
+Ritualborn offers a free starter routine and workout logging. Premium adds features such as plan updates, AI coaching, nutrition goals, and expanded history. See the website for current pricing and details.
+
+## Important note
+
+Ritualborn provides general fitness and nutrition information, not medical advice. Choose exercises and goals that suit your abilities, and consult a qualified professional if you have health concerns.
+
+## APK download
+
+The Android APK, if included, is available under **Releases** in this repository. Only install APKs from a source you trust. Android may ask you to allow installation from your browser.
+
+## Privacy
+
+Ritualborn is designed to keep personal progress data private. Review the [Privacy Policy](https://ritualborn.com/privacy) for details.
+
+## Contact
+
+For questions, visit [Ritualborn](https://ritualborn.com/contact).
+```
